@@ -1,12 +1,3 @@
 {
-  "books": [
-    {
-      "title": "Black Magic",
-      "id": 6
-    },
-    {
-      "title": "W Potter",
-      "id": 7
-    }
-  ]
+  "books": []
 }
