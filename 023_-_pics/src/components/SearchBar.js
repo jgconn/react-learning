@@ -1,7 +1,6 @@
 import './SearchBar.css';
 import { useState } from 'react'; // useState allows to get current state of thing
 
-
 // we would use props but since we only care about one prop then we will de structure out onSubmit
 function SearchBar({ onSubmit }) {
   // state. It read the value term. If need to update the value use setTerm.
