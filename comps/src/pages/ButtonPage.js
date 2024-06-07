@@ -3,7 +3,7 @@ import Button from '../components/Button.js'
 
 function ButtonPage() {
     const handleClick = () => {
-        console.log('Click!!');
+        //console.log('Click!!');
     }
 
     return (
