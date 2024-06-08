@@ -45,7 +45,7 @@ function useSort(data, config) {
         sortBy,
         sortedData,
         setSortColumn
-    }
-}
+    };
+};
 
 export default useSort;
