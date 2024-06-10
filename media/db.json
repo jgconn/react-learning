@@ -13,6 +13,68 @@
       "name": "Brian Beer V"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "fc90",
+      "userId": "e3e3",
+      "title": "Handmade Soft Car"
+    },
+    {
+      "id": "16ce",
+      "userId": "e3e3",
+      "title": "Generic Cotton Chips"
+    },
+    {
+      "id": "0ec8",
+      "userId": "847a",
+      "title": "Licensed Rubber Fish"
+    },
+    {
+      "id": "c88c",
+      "userId": "a34e",
+      "title": "Licensed Rubber Bike"
+    },
+    {
+      "id": "6e41",
+      "userId": "847a",
+      "title": "Small Metal Salad"
+    }
+  ],
+  "photos": [
+    {
+      "id": "91f6",
+      "albumId": "c88c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=67033"
+    },
+    {
+      "id": "cc71",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=37744"
+    },
+    {
+      "id": "8c01",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=56945"
+    },
+    {
+      "id": "e5a9",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=72344"
+    },
+    {
+      "id": "748f",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=72305"
+    },
+    {
+      "id": "6541",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=51012"
+    },
+    {
+      "id": "c7bd",
+      "albumId": "0ec8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=87974"
+    }
+  ]
 }
